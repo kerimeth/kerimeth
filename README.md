@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kerimeth
+- 👀 I’m interested in Crypto and backend
+- 🌱 I’m currently learning Python & Solidity
+-    Twitter: @kerim_eth 
+- kcakir@karntech.com
